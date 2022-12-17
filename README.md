@@ -22,4 +22,5 @@ This includes any user who authored a collected tweet, and any user mentioned by
 Mark Mifsud
 0382200L
 B.Sc. (Hons) Computing Science and Mathematics, Year 4
+mark.mifsud.18@um.edu.mt
 ```
