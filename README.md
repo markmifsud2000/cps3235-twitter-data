@@ -15,3 +15,11 @@ and not for tweets that he referenced.
 ## User.csv
 `User.csv` contains the data on all users collected.
 This includes any user who authored a collected tweet, and any user mentioned by Elon Musk in a tweet.
+
+
+## Collected By
+```
+Mark Mifsud
+0382200L
+B.Sc. (Hons) Computing Science and Mathematics, Year 4
+```
