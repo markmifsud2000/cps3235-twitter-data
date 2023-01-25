@@ -1,3 +1,9 @@
+**Note:** Due to poor time management, the data collection script was only run once before the initial deadline.
+That data is available on the main branch.
+After the deadline, the collection script was run daily, between 26/12/2022 and 22/01/2023.
+This larger data set has been uploaded to this branch, and will be used for any remaining tasks. 
+
+
 # Twitter Data for CPS3235 Assignment
 
 The included csv files contain the data collected for the CPS3235 assignment.
